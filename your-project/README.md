@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+Philippine Breuil
 
-*[Your Cohort, Campus & Date]*
+Data Part Time, Paris, June 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,17 +16,22 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant).
+My project is a 16 days weather forecast and air quality database for 60+ seaside cities in France. 
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to build your dataset to answer?
+Where should we go on holidays to get the best weather and air quality on the french coast?
 
 <a name="dataset"></a>
 
 ## Dataset
-What are your data sources? How did you access these sources? How did you transform or merge them into one cohesive and novel dataset? Provide links to the data if available.
+What are your data sources? 
+I have two data sources: 
+1. https://www.france-voyage.com/, I've retreived the datas by scapping this website.
+2. https://weatherbit.io, I've retreived the datas by connectig to their open API.
+
+How did you transform or merge them into one cohesive and novel dataset? 
 
 [Dataset]() 
 
@@ -46,5 +51,5 @@ How did you organize yourself? Did you use any tools?
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/14d79yDSudLtd9M747rX6u8b-gNI2ovY9iala7uRJRgs/)  
+[Trello](https://trello.com/b/SxXwmz9W/module-1-final-project)  
