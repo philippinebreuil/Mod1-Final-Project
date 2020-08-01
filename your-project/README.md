@@ -38,18 +38,21 @@ How did you transform or merge them into one cohesive and novel dataset?
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+A.  Création d’une base de Stations balnéaires :
+B.  Création d’une base avec les données météos à 16 jours par ville :
+C.  Création d’une base avec les données de qualité de l’air :
+D.  Création d’une de données regroupant les 3 data sets
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+I've Used Jupyter notebook 
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/philippinebreuil/Mod1-Final-Project)  
 [Slides](https://docs.google.com/presentation/d/14d79yDSudLtd9M747rX6u8b-gNI2ovY9iala7uRJRgs/)  
 [Trello](https://trello.com/b/SxXwmz9W/module-1-final-project)  
